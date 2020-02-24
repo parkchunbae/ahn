@@ -1,4 +1,4 @@
 import pandas as pd
-train = pd.read_csv('./titanic/train.csv', index_col='PassengerId')
-train
+test = pd.read_csv('./titanic/test.csv', index_col='PassengerId')
+test
 # this is test
